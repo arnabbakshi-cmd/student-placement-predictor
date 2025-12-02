@@ -1,0 +1,5 @@
+{
+  "name": "Student Placement Predictor",
+  "description": "An AI-powered application to predict student placement chances and provide personalized suggestions for improvement based on academic, technical, and personal data.",
+  "requestFramePermissions": []
+}
